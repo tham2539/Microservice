@@ -1,0 +1,15 @@
+{
+  "name": "swp_project_js",
+  "version": "1.0.0",
+  "description": "Port of the load balancer project to JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^3.0.0",
+    "node-fetch": "^3.3.2",
+    "yargs": "^17.7.2"
+  }
+}

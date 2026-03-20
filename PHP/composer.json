@@ -1,0 +1,6 @@
+{
+    "name": "swp/project-php",
+    "require": {
+        "workerman/workerman": "^4.1"
+    }
+}

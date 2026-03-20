@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Rust
+target/
+
+# Go
+swp_project_go
+swp_project_go.exe
+*.exe
+
+# C#
+bin/
+obj/
+
+# Java
+*.class
+
+# Dart
+.dart_tool/
+build/
+.packages
+
+# PHP
+vendor/
+composer.lock
+
+# Test logs
+*.log
+test_results.log
+out.log
